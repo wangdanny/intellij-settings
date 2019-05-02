@@ -1,0 +1,15 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="test-scenario" type="JavaScript" />
+      <mapping pattern="external-vars" type="PLAIN_TEXT" />
+      <mapping pattern="deploy-vars" type="PLAIN_TEXT" />
+      <mapping pattern="mo" type="PLAIN_TEXT" />
+      <mapping pattern="queries" type="PLAIN_TEXT" />
+      <mapping ext="tmp" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="tpl" type="YAML" />
+    </extensionMap>
+  </component>
+</application>
