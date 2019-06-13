@@ -3,16 +3,15 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="test-scenario" type="JavaScript" />
-      <mapping pattern="queries" type="PLAIN_TEXT" />
-      <mapping pattern="prediction-insight-ad-benchmarks" type="PLAIN_TEXT" />
-      <mapping pattern="external-vars" type="PLAIN_TEXT" />
       <mapping pattern="deploy-vars" type="PLAIN_TEXT" />
+      <mapping pattern="external-vars" type="PLAIN_TEXT" />
       <mapping pattern="mo" type="PLAIN_TEXT" />
+      <mapping pattern="queries" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="tmp" type="PLAIN_TEXT" />
       <mapping ext="q" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="YAML" />
-      <mapping ext="j2" type="YAML" />
     </extensionMap>
   </component>
 </application>
