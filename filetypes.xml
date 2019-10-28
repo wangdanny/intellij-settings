@@ -5,6 +5,7 @@
       <mapping pattern="test-scenario" type="JavaScript" />
       <mapping pattern="queries" type="PLAIN_TEXT" />
       <mapping pattern="test_steps_get_validation_sql" type="PLAIN_TEXT" />
+      <mapping pattern="salary_graph_migration.sql" type="PLAIN_TEXT" />
       <mapping pattern="t" type="PLAIN_TEXT" />
       <mapping pattern="external-vars" type="PLAIN_TEXT" />
       <mapping pattern="deploy-vars" type="PLAIN_TEXT" />
