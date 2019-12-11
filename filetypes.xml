@@ -1,31 +1,30 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
-      <mapping ext="trg" type="DBN-PSQL" />
-      <mapping ext="pks" type="DBN-PSQL" />
-      <mapping ext="prc" type="DBN-PSQL" />
-      <mapping ext="fnc" type="DBN-PSQL" />
-      <mapping ext="tps" type="DBN-PSQL" />
-      <mapping ext="tpe" type="DBN-PSQL" />
-      <mapping ext="tpb" type="DBN-PSQL" />
-      <mapping ext="pkg" type="DBN-PSQL" />
-      <mapping ext="pkb" type="DBN-PSQL" />
-      <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="test-scenario" type="JavaScript" />
-      <mapping pattern="queries" type="PLAIN_TEXT" />
+      <mapping pattern="tes" type="PLAIN_TEXT" />
       <mapping pattern="test_steps_get_validation_sql" type="PLAIN_TEXT" />
       <mapping pattern="salary_graph_migration.sql" type="PLAIN_TEXT" />
-      <mapping pattern="tes" type="PLAIN_TEXT" />
+      <mapping pattern="deploy-vars" type="PLAIN_TEXT" />
       <mapping pattern="t" type="PLAIN_TEXT" />
       <mapping pattern="external-vars" type="PLAIN_TEXT" />
-      <mapping pattern="deploy-vars" type="PLAIN_TEXT" />
       <mapping pattern="mo" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="queries" type="PLAIN_TEXT" />
       <mapping ext="tmp" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
-      <mapping pattern="self_organising_map" type="Python" />
       <mapping ext="tpl" type="YAML" />
+      <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="pkb" type="DBN-PSQL" />
+      <mapping ext="pkg" type="DBN-PSQL" />
+      <mapping ext="pks" type="DBN-PSQL" />
+      <mapping ext="prc" type="DBN-PSQL" />
+      <mapping ext="tpb" type="DBN-PSQL" />
+      <mapping ext="tpe" type="DBN-PSQL" />
+      <mapping ext="tps" type="DBN-PSQL" />
+      <mapping ext="trg" type="DBN-PSQL" />
+      <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern="self_organising_map" type="Python" />
     </extensionMap>
   </component>
 </application>
