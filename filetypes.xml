@@ -6,6 +6,7 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="external-vars" type="PLAIN_TEXT" />
       <mapping pattern="tes" type="PLAIN_TEXT" />
+      <mapping pattern="LOGS" type="PLAIN_TEXT" />
       <mapping pattern="queries" type="PLAIN_TEXT" />
       <mapping pattern="test_steps_get_validation_sql" type="PLAIN_TEXT" />
       <mapping pattern="mo" type="PLAIN_TEXT" />
